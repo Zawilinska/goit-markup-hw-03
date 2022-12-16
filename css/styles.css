@@ -43,7 +43,7 @@ body {
   text-align: center;
 
   width: 1600px;
-  height: 600px;
+
 }
 
 .baner-text {
@@ -112,8 +112,8 @@ body {
   letter-spacing: 0.03em;
   color: var(--color-gray);
   margin-right: 30px;
-  Width: 270px;
-  Height: 75px;
+  width: 270px;
+
 }
 
 .lorem-ipsum {
@@ -122,7 +122,6 @@ body {
   font-weight: 700;
   letter-spacing: 0.03em;
 }
-
 
 /* Lorem impsum */
 
@@ -149,7 +148,7 @@ body {
 /* Our Team */
 .section-team {
   background-color: #E5E5E5;
-  height: 648px;
+
   width: 1600px;
 }
 
@@ -219,7 +218,7 @@ body {
 
 .footer {
   background-color: var(--color-section);
-  height: 252px;
+
   width: 1600px;
 }
 
