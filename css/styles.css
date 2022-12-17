@@ -11,8 +11,8 @@
 
 * {
   margin: 0;
-  padding: 0;
   border: 0;
+  padding: 0;
 }
 
 body {
@@ -117,6 +117,17 @@ body {
   margin-right: 93px;
   padding-top: 25px;
   padding-bottom: 24px;
+}
+
+.logo-webstudio-footer {
+  text-decoration: none;
+  line-height: 1.19;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  font-family: 'Raleway', sans-serif;
+  padding-top: 60px;
+  padding-bottom: 20px;
 }
 
 /* Logo*/
@@ -240,6 +251,7 @@ li {
   letter-spacing: 0.06em;
   padding-top: 20px;
   padding-bottom: 4px;
+  padding-left: 24px;
 }
 
 .categories {
@@ -247,6 +259,7 @@ li {
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.03em;
+  padding-left: 24px;
 
 }
 
@@ -293,7 +306,7 @@ li {
 
 
 .header-logo {
-  border: 1px solid #ECECEC;
+  border-bottom: 1px solid #ECECEC;
   margin: 0 auto;
 }
 
@@ -308,19 +321,19 @@ li {
 .pictures-categorie {
   flex-wrap: wrap;
   display: flex;
-
+  gap: 30px
 }
 
 .pictures-categorie li {
-  margin-right: 30px;
+
   border: 1px solid #EEEEEE;
-  padding-bottom: 20px;
-  margin-bottom: 30px;
+  border: 0;
 }
 
 
 .list-lorem-ipsum {
   display: flex;
+  margin: 0;
 
 }
 
