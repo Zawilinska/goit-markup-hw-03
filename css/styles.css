@@ -109,7 +109,8 @@ body {
   letter-spacing: 0.03em;
   font-family: 'Raleway', sans-serif;
   margin-right: 93px;
-
+  padding-top: 25px;
+  padding-bottom: 24px;
 }
 
 /* Logo*/
@@ -123,6 +124,7 @@ body {
   letter-spacing: 0.03em;
   color: var(--color-gray);
   margin-right: 30px;
+
 }
 
 
