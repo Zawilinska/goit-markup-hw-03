@@ -127,7 +127,7 @@ body {
   letter-spacing: 0.03em;
   font-family: 'Raleway', sans-serif;
   padding-top: 60px;
-  padding-bottom: 20px;
+
 }
 
 /* Logo*/
@@ -202,6 +202,7 @@ li {
   font-size: 14px;
   font-style: normal;
   letter-spacing: 0.03em;
+  padding-bottom: 60px;
 }
 
 .contact-footer-mail {
@@ -219,7 +220,7 @@ li {
   font-size: 14px;
   letter-spacing: 0.03em;
   color: var(--color-white);
-
+  padding-top: 20px;
 }
 
 .footer {
@@ -260,6 +261,7 @@ li {
   line-height: 1.87;
   letter-spacing: 0.03em;
   padding-left: 24px;
+  padding-bottom: 20px;
 
 }
 
@@ -294,7 +296,7 @@ li {
     0px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
-/* zadanie 3*/
+
 
 .flex-header {
   display: flex;
@@ -354,6 +356,7 @@ h2 {
 .list-our-team {
   display: flex;
   text-align: center;
+
 
 }
 
