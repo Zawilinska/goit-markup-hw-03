@@ -293,7 +293,7 @@ li {
 
 
 .header-logo {
-  outline: 1px solid #ECECEC;
+  border: 1px solid #ECECEC;
   margin: 0 auto;
 }
 
@@ -308,10 +308,14 @@ li {
 .pictures-categorie {
   flex-wrap: wrap;
   display: flex;
+
 }
 
 .pictures-categorie li {
   margin-right: 30px;
+  border: 1px solid #EEEEEE;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 
