@@ -9,6 +9,12 @@
 
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   color: var(--color-black)
@@ -311,6 +317,7 @@ li {
 
 .list-lorem-ipsum {
   display: flex;
+
 }
 
 h2 {
