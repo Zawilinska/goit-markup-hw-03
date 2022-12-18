@@ -335,6 +335,7 @@ li {
 
 .list-lorem-ipsum {
   display: flex;
+  margin: 0;
 }
 
 
