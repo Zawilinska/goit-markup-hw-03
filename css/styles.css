@@ -17,7 +17,8 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  color: var(--color-black)
+  color: var(--color-black);
+  width: 1600px;
 }
 
 .container {
@@ -141,8 +142,9 @@ body {
   letter-spacing: 0.03em;
   color: var(--color-gray);
   margin-right: 30px;
-
+  padding-top: 10px;
 }
+
 
 
 .lorem-ipsum {
@@ -150,7 +152,6 @@ body {
   font-size: 14px;
   font-weight: 700;
   letter-spacing: 0.03em;
-  padding-bottom: 10px;
 }
 
 /* Lorem impsum */
@@ -326,8 +327,7 @@ li {
   gap: 30px
 }
 
-.pictures-categorie li {
-
+.border-bottom {
   border: 1px solid #EEEEEE;
   border: 0;
 }
@@ -335,9 +335,8 @@ li {
 
 .list-lorem-ipsum {
   display: flex;
-  margin: 0;
-
 }
+
 
 h2 {
   text-align: center;
@@ -356,13 +355,13 @@ h2 {
 .list-our-team {
   display: flex;
   text-align: center;
-
-
 }
+
 
 .box-team {
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0px 0px 4px 4px;
   background: #FFFFFF;
   margin-right: 30px;
+  padding-bottom: 50px;
 }
