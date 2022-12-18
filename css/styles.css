@@ -355,6 +355,7 @@ h2 {
 .list-our-team {
   display: flex;
   text-align: center;
+  margin: 0;
 }
 
 
